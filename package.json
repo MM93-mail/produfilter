@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "main": "sever.js",
   "scripts": {
-    "start": "node sever.js"
+    "start": "node sever.js",
+    "build": "echo 'Building Node app...'"
   },
   "dependencies": {
     "cors": "^2.8.5",
